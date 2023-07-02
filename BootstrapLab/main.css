@@ -56,3 +56,7 @@ p  {
     background-color: var(--nav-bg-color);
 }
 
+.btn    {
+    background-color: var(--nav-bg-color);
+    color:var(--nav-color);
+}
